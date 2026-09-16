@@ -1,0 +1,17 @@
+# C语言编译产物
+*.o
+*.out
+*.exe
+*.dSYM/
+
+# Python缓存
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Mac系统隐藏文件
+.DS_Store
+
+# VSCode配置
+.vscode/
